@@ -1,0 +1,13 @@
+{
+	"manifest_version":3,
+	"version":"1.0",
+	"name": "Leads racker",
+	"action":{
+		"default_popup": "index.html",
+		"default_icon": "icon.PNG"
+	},
+
+	"permissions":[
+        "tabs"
+	]
+}
